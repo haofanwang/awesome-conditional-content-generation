@@ -7,4 +7,4 @@ Potential Research Topics (I'm open to discussion and cooperation!)
   - Motivation: Long duration In-betweening, guidance requires a large amount of data
   - Related Works: [Conditional Motion In-betweening](https://arxiv.org/abs/2202.04307?context=cs.AI)
   - Task Formulation: Unconstrained In-betweening, Pose-conditioned In-betweening, Semantic-conditioned In-betweening
-  - Downstram Tasks: Motion Completion or Interpolation, Motion Editing
+  - Downstram Tasks: Motion Completion or Interpolation, Motion Editing, Motion-Motion Transition
