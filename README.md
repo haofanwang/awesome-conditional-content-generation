@@ -139,6 +139,9 @@ Adobe Research, 28 May 2020
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image)
 
+[Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://arxiv.org/pdf/2211.10950.pdf) \
+University of Waterloo, 20 Nov 2022, [[Upcoming Code]](https://github.com/Flash-321/ARLDM)
+
 [InstructPix2Pix: Learning to Follow Image Editing Instructions](https://arxiv.org/abs/2211.09800) \
 UC Berkeley, 17 Nov 2022
 
@@ -150,6 +153,9 @@ University of Chinese Academy of Sciences, 11 Nov 2022
 
 [Imagic: Text-Based Real Image Editing with Diffusion Models](https://imagic-editing.github.io/) \
 Google Research, 17 Oct 2022
+
+[Self-Guided Diffusion Models](https://arxiv.org/abs/2210.06462) \
+University of Amsterdam, 12 Oct 2022
 
 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/) \
 Google Research, 25 Aug 2022, [[Code]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
@@ -169,8 +175,14 @@ University of Science and Technology of China, CVPR 2022, [[Code]](https://githu
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
 Runway ML, CVPR 2022, [[Code]](https://github.com/CompVis/latent-diffusion)
 
-
 ### Text-Video Generation
+
+[Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths](https://yingqinghe.github.io/LVDM/) \
+The Hong Kong University of Science and Technology, 23 Nov 2022, [[Upcoming Code]](https://github.com/YingqingHe/LVDM)
+
+[MagicVideo: Efficient Video Generation With Latent Diffusion Models](https://magicvideo.github.io/) \
+ByteDance Inc, 20 Nov 2022
+
 [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/) \
 NVIDIA Research, ECCV 2022 (Oral), [[Code]](https://github.com/omerbt/Text2LIVE)
 
