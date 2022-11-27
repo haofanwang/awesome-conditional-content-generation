@@ -5,18 +5,17 @@ This repository contains a collection of resources and papers on ***Conditional 
 
 ## Contents
 - Papers List
-  - [Conditional Human Motion Generation](#conditional-human-motion-generation)
+  - Conditional Human Motion Generation
     - [Music-Driven motion generation](#music-driven-motion-generation)
     - [Text-Driven motion generation](#text-driven-motion-generation)
     - [Audio-Driven motion generation](#audio-driven-motion-generation)
     - [Human Motion Prediction](#human-motion-prediction)
     - [Motion Applications](#motion-applications)
-  - [Conditional Image Generation](#conditional-image-generation)
+  - Conditional Image Generation
     - [Text-Image Generation](#text-image-generation)
-  - [Conditional Video Generation](#conditional-video-generation)
+    - [Text-3D Image Generation](#text-3d-image-generation)
+  - Conditional Video Generation
     - [Text-Video Generation](#text-video-generation)
-  - [Conditional 3D Image Generation](#conditional-video-generation)
-    - [Text-3D Generation](#text-3d-generation)
 
 ## Papers
 
@@ -163,6 +162,6 @@ Runway ML, CVPR 2022, [[Code]](https://github.com/CompVis/latent-diffusion)
 [Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/) \
 NVIDIA Research, ECCV 2022 (Oral), [[Code]](https://github.com/omerbt/Text2LIVE)
 
-### Text-3D Generation
+### Text-3D Image Generation
 [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/) \
 Google Research, 29 Sep 2022
