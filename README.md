@@ -117,11 +117,23 @@ Mercedes-Benz, IJCAI 2022 (Oral), [[Code]](https://github.com/MotionMLP/MotionMi
 UCSD, NeurIPS 2021
 
 ### Motion Applications
+[Motion In-betweening via Two-stage Transformers](http://kunzhou.net/2022/motion-siga22.pdf) \
+Zhejiang University, SIGGRAPH Asia 2022
+
+[Skeleton2Humanoid: Animating Simulated Characters for Physically-plausible Motion In-betweening](https://dl.acm.org/doi/abs/10.1145/3503161.3548093) \
+Shanghai Jiaotong University, ACMMM 2022, [[Upcoming Code]](https://github.com/michaelliyunhao/Skeleton2Humanoid)
+
 [Conditional Motion In-betweening](https://arxiv.org/abs/2202.04307) \
 Korea University, 6 Oct 2022, [[Code]](https://github.com/jihoonerd/Conditional-Motion-In-Betweening)
 
 [SkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition](https://arxiv.org/abs/2209.02399) \
 University of North Carolina, 1 Sep 2022
+
+[Transformer based Motion In-betweening](https://openaccess.thecvf.com/content/ACCV2022W/TCV/papers/Sridhar_Transformer_Based_Motion_In-Betweening_ACCVW_2022_paper.pdf) \
+National Institute of Technology - Tiruchirappalli, ACCV 2022 Workshop, [[Code]](https://github.com/Pavi114/motion-completion-using-transformers)
+
+[Generative Tweening: Long-term Inbetweening of 3D Human Motions](https://zhouyisjtu.github.io/project_tweening/GenerativeTweening.html) \
+Adobe Research, 28 May 2020
 
 ### Text-Image Generation
 
