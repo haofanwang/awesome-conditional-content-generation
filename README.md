@@ -15,6 +15,8 @@ This repository contains a collection of resources and papers on ***Conditional 
     - [Text-Image Generation](#text-image-generation)
   - [Conditional Video Generation](#conditional-video-generation)
     - [Text-Video Generation](#text-video-generation)
+  - [Conditional Video Generation](#conditional-video-generation)
+    - [Text-3D Generation](#text-3d-generation)
 
 ## Papers
 
@@ -120,7 +122,9 @@ University of North Carolina, 1 Sep 2022
 
 ### Text-Image Generation
 
-[InstructPix2Pix: Learning to Follow Image Editing Instructions](https://arxiv.org/abs/2211.09800) \ 
+For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image)
+
+[InstructPix2Pix: Learning to Follow Image Editing Instructions](https://arxiv.org/abs/2211.09800) \
 UC Berkeley, 17 Nov 2022
 
 [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://arxiv.org/abs/2211.09794) \
@@ -149,3 +153,12 @@ University of Science and Technology of China, CVPR 2022, [[Code]](https://githu
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) \
 Runway ML, CVPR 2022, [[Code]](https://github.com/CompVis/latent-diffusion)
+
+
+### Text-Video Generation
+[Text2LIVE: Text-Driven Layered Image and Video Editing](https://text2live.github.io/) \
+NVIDIA Research, ECCV 2022 (Oral), [[Code]](https://github.com/omerbt/Text2LIVE)
+
+### Text-3D Generation
+[DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/) \
+Google Research, 29 Sep 2022
