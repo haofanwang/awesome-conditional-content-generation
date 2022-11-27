@@ -1,10 +1,10 @@
 # awesome-conditional-content-generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository contains a collection of resources and papers on ***Conditional Content Generation***.
+This repository contains a collection of resources and papers on ***Conditional Content Generation***. Especially for human motion generation, image generation and video generation. This repo is maintained by [Haofan Wang](https://github.com/haofanwang).
 
 
 ## Contents
-- Papers
+- Papers List
   - [Conditional Human Motion Generation](#conditional-human-motion-generation)
     - [Music-Driven motion generation](#music-driven-motion-generation)
     - [Text-Driven motion generation](#text-driven-motion-generation)
@@ -15,7 +15,7 @@ This repository contains a collection of resources and papers on ***Conditional 
     - [Text-Image Generation](#text-image-generation)
   - [Conditional Video Generation](#conditional-video-generation)
     - [Text-Video Generation](#text-video-generation)
-  - [Conditional Video Generation](#conditional-video-generation)
+  - [Conditional 3D Image Generation](#conditional-video-generation)
     - [Text-3D Generation](#text-3d-generation)
 
 ## Papers
