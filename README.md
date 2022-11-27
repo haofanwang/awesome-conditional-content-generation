@@ -69,6 +69,8 @@ University of Maryland,, VR 2021, [[Code]](https://github.com/UttaranB127/Text2G
 
 ### Audio-Driven motion generation
 
+For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation)
+
 [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) \
 York University, 23 Sep 2022, [[Code]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)
 
@@ -97,6 +99,8 @@ Max Planck Institute for Informatics, IVA 2021, [[Code]](http://gvv.mpi-inf.mpg.
 UC Berkeley, CVPR 2019, [[Code]](https://github.com/amirbar/speech2gesture)
 
 ### Human motion prediction
+
+For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md)
 
 [PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting](https://europe.naverlabs.com/research/computer-vision/posegpt/) \
 NAVER LABS, ECCV'2022, [[Code]](https://github.com/naver/PoseGPT)
