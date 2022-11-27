@@ -28,7 +28,7 @@ Tsinghua University, ACMMM'22
 [A Brand New Dance Partner: Music-Conditioned Pluralistic Dancing Controlled by Multiple Dance Genres](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_A_Brand_New_Dance_Partner_Music-Conditioned_Pluralistic_Dancing_Controlled_by_CVPR_2022_paper.pdf) \
 Yonsei University, CVPR 2022, [[Code]](https://github.com/jw09191/MNET)
 
-[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://www.mmlab-ntu.com/project/bailando/index.html)
+[Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory](https://www.mmlab-ntu.com/project/bailando/index.html) \
 NTU, CVPR 2022 (Oral), [[Code]](https://github.com/lisiyao21/Bailando)
 
 [Dance Style Transfer with Cross-modal Transformer](https://arxiv.org/abs/2208.09406) \
