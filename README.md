@@ -117,6 +117,10 @@ Mercedes-Benz, IJCAI 2022 (Oral), [[Code]](https://github.com/MotionMLP/MotionMi
 UCSD, NeurIPS 2021
 
 ### Motion Applications
+
+[TEACH: Temporal Action Compositions for 3D Humans](https://teach.is.tue.mpg.de/) \
+MPI, 3DV 2022, [[Code]](https://github.com/athn-nik/teach)
+
 [Motion In-betweening via Two-stage Transformers](http://kunzhou.net/2022/motion-siga22.pdf) \
 Zhejiang University, SIGGRAPH Asia 2022
 
@@ -138,6 +142,9 @@ Adobe Research, 28 May 2020
 ### Text-Image Generation
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image)
+
+[SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
+Meta AI (FAIR), 25 Nov 2022
 
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://arxiv.org/pdf/2211.10950.pdf) \
 University of Waterloo, 20 Nov 2022, [[Upcoming Code]](https://github.com/Flash-321/ARLDM)
