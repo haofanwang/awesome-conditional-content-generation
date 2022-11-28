@@ -1,8 +1,8 @@
 ### Potential Research Topics (I'm open to discussion and cooperation!)
 
 - VQ-Diffusion for Music-Driven Dance Motion Generation
-  - Motivation: Memory for de-noising, Diffusion to avoid auto-regressive errors.
-  - Related Works: [Pose-GPT](https://europe.naverlabs.com/research/computer-vision/posegpt/), [VQ-Diffusion](https://github.com/microsoft/VQ-Diffusion), [EDGE](https://arxiv.org/abs/2211.10658)
+  - Motivation: Adopt diffusion to alleviate auto-regressive errors; Quantized memory analysis for de-noising; A mean body instead of random noise; An action-level instead of frame-level memory with motion compositions; Incomplete motion sequence via masking.
+  - Related Works: [Pose-GPT](https://europe.naverlabs.com/research/computer-vision/posegpt/), [VQ-Diffusion](https://github.com/microsoft/VQ-Diffusion), [EDGE](https://arxiv.org/abs/2211.10658), [TEACH](https://github.com/athn-nik/teach)
 
 - Conditional Motion In-betweening with Self-Supervised Augmentation
   - Motivation: Long duration In-betweening, guidance requires a large amount of data
