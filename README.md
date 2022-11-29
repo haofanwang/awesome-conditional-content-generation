@@ -146,6 +146,9 @@ For more recent paper, you can find from [here](https://github.com/heejkoo/Aweso
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
 Meta AI (FAIR), 25 Nov 2022
 
+[Make-A-Story: Visual Memory Conditioned Consistent Story Generation](https://arxiv.org/abs/2211.13319) \
+University of British Columbia, 23 Nov 2022
+
 [Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models](https://arxiv.org/pdf/2211.10950.pdf) \
 University of Waterloo, 20 Nov 2022, [[Upcoming Code]](https://github.com/Flash-321/ARLDM)
 
