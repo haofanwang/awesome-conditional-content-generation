@@ -146,6 +146,9 @@ For more recent paper, you can find from [here](https://github.com/heejkoo/Aweso
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
 Meta AI (FAIR), 25 Nov 2022
 
+[Sketch-Guided Text-to-Image Diffusion Models](https://arxiv.org/pdf/2211.13752.pdf) \
+Google Research, 24 Nov 2022
+
 [Make-A-Story: Visual Memory Conditioned Consistent Story Generation](https://arxiv.org/abs/2211.13319) \
 University of British Columbia, 23 Nov 2022
 
@@ -175,6 +178,9 @@ Google Research, 2 Aug 2022, [[Code]](https://github.com/bloc97/CrossAttentionCo
 
 [Improved Vector Quantized Diffusion Models](https://arxiv.org/abs/2205.16007) \
 University of Science and Technology of China, 31 May 2022, [[Code]](https://github.com/cientgu/VQ-Diffusion)
+
+[Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://arxiv.org/pdf/2203.13131.pdf) \
+Meta AI Research, 24 Mar 2022
 
 [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://diff-ae.github.io/) \
 Vidyasirimedhi Institute of Science and Technology, CVPR 2022 (Oral), [[Code]](https://github.com/phizaz/diffae)
