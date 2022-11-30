@@ -42,6 +42,9 @@ Tencent, 8 July 2022
 USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
+[UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
+Xiaobing Inc, 29 Nov 2022, [[Upcoming Code]](https://github.com/zixiangzhou916/UDE/)
+
 [MotionBERT: Unified Pretraining for Human Motion Analysis](https://motionbert.github.io/) \
 SenseTime Research, 12 Oct 2022, [[Code]](https://github.com/Walter0807/MotionBERT)
 
@@ -69,6 +72,9 @@ University of Maryland,, VR 2021, [[Code]](https://github.com/UttaranB127/Text2G
 ### Audio-Driven motion generation
 
 For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation)
+
+[Listen, denoise, action! Audio-driven motion synthesis with diffusion models](https://www.speech.kth.se/research/listen-denoise-action/) \
+KTH Royal Institute of Technology, 17 Nov 2022
 
 [ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech](https://arxiv.org/abs/2209.07556) \
 York University, 23 Sep 2022, [[Code]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS)
@@ -100,6 +106,9 @@ UC Berkeley, CVPR 2019, [[Code]](https://github.com/amirbar/speech2gesture)
 ### Human motion prediction
 
 For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md)
+
+[BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://barquerogerman.github.io/BeLFusion/) \
+University of Barcelona, 25 Nov 2022, [[Upcoming Code]](https://github.com/BarqueroGerman/BeLFusion)
 
 [PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting](https://europe.naverlabs.com/research/computer-vision/posegpt/) \
 NAVER LABS, ECCV'2022, [[Code]](https://github.com/naver/PoseGPT)
