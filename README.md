@@ -133,6 +133,9 @@ Korea University, 6 Oct 2022, [[Code]](https://github.com/jihoonerd/Conditional-
 [SkeletonMAE: Spatial-Temporal Masked Autoencoders for Self-supervised Skeleton Action Recognition](https://arxiv.org/abs/2209.02399) \
 University of North Carolina, 1 Sep 2022
 
+[A Unified Framework for Real Time Motion Completion](https://ojs.aaai.org/index.php/AAAI/article/view/20368) \
+NetEase Games AI Lab, AAAI 2022
+
 [Transformer based Motion In-betweening](https://openaccess.thecvf.com/content/ACCV2022W/TCV/papers/Sridhar_Transformer_Based_Motion_In-Betweening_ACCVW_2022_paper.pdf) \
 National Institute of Technology - Tiruchirappalli, ACCV 2022 Workshop, [[Code]](https://github.com/Pavi114/motion-completion-using-transformers)
 
