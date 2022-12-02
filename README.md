@@ -182,6 +182,9 @@ Google Research, 17 Oct 2022
 [Self-Guided Diffusion Models](https://arxiv.org/abs/2210.06462) \
 University of Amsterdam, 12 Oct 2022
 
+[On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142) \
+Stanford University, NeurIPS 2022 Workshop, 6 Oct 2022
+
 [DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation](https://dreambooth.github.io/) \
 Google Research, 25 Aug 2022, [[Code]](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)
 
