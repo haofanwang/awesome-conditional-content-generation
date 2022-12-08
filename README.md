@@ -21,6 +21,9 @@ This repository contains a collection of resources and papers on ***Conditional 
 
 ### Music-Driven motion generation
 
+[Magic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation](https://arxiv.org/pdf/2212.03741v1.pdf) \
+ Tsinghua University, 7 Dec 2022
+
 [Pretrained Diffusion Models for Unified Human Motion Synthesis](https://ofa-sys.github.io/MoFusion/) \
 DAMO Academy, Alibaba Group, 6 Dec 2022
 
