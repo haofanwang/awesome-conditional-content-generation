@@ -20,6 +20,10 @@ This repository contains a collection of resources and papers on ***Conditional 
 ## Papers
 
 ### Music-Driven motion generation
+
+[Pretrained Diffusion Models for Unified Human Motion Synthesis](https://ofa-sys.github.io/MoFusion/) \
+DAMO Academy, Alibaba Group, 6 Dec 2022
+
 [EDGE: Editable Dance Generation From Music](https://arxiv.org/abs/2211.10658) \
 Stanford University, 19 Nov 2022
 
