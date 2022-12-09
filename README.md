@@ -49,6 +49,9 @@ Tencent, 8 July 2022
 USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
+[Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
+Tencent PCG, 8 Dec 2022, [[Upcoming Code]](https://github.com/ChenFengYe/motion-latent-diffusion)
+
 [UDE: A Unified Driving Engine for Human Motion Generation](https://arxiv.org/pdf/2211.16016.pdf) \
 Xiaobing Inc, 29 Nov 2022, [[Upcoming Code]](https://github.com/zixiangzhou916/UDE/)
 
