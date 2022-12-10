@@ -83,6 +83,9 @@ University of Maryland,, VR 2021, [[Code]](https://github.com/UttaranB127/Text2G
 
 For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation)
 
+[Generating Holistic 3D Human Motion from Speech](https://talkshow.is.tue.mpg.de/) \
+Max Planck Institute for Intelligent Systems, 8 Dev 2022
+
 [Listen, denoise, action! Audio-driven motion synthesis with diffusion models](https://www.speech.kth.se/research/listen-denoise-action/) \
 KTH Royal Institute of Technology, 17 Nov 2022
 
