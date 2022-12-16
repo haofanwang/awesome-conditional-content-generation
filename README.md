@@ -73,6 +73,9 @@ Korea University, 1 Sep 2022
 [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html) \
 NTU, 22 Aug 2022, [[Code]](https://github.com/mingyuan-zhang/MotionDiffuse)
 
+[GIMO: Gaze-Informed Human Motion Prediction in Context](https://geometry.stanford.edu/projects/gimo/) \
+Stanford University, ECCV 2022, [[Code]](https://github.com/y-zheng18/GIMO)
+
 [MotionCLIP: Exposing Human Motion Generation to CLIP Space](https://guytevet.github.io/motionclip-page/) \
 Tel Aviv University, ECCV 2022, [[Code]](https://github.com/GuyTevet/MotionCLIP)
 
