@@ -248,5 +248,8 @@ ByteDance Inc, 20 Nov 2022
 NVIDIA Research, ECCV 2022 (Oral), [[Code]](https://github.com/omerbt/Text2LIVE)
 
 ### Text-3D Image Generation
+[Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751) \
+OpenAI, 16 Dec 2022
+
 [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/) \
 Google Research, 29 Sep 2022
