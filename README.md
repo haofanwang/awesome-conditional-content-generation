@@ -50,6 +50,9 @@ Tencent, 8 July 2022
 USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
+[Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
+Tencent, 8 Dec 2022, [[Code]](https://github.com/ChenFengYe/motion-latent-diffusion)
+
 [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels](https://arxiv.org/abs/2212.05897) \
 Seoul National University, AAAI 2023
 
