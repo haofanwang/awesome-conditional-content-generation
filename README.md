@@ -31,6 +31,9 @@ DAMO Academy, Alibaba Group, 6 Dec 2022
 [EDGE: Editable Dance Generation From Music](https://arxiv.org/abs/2211.10658) \
 Stanford University, 19 Nov 2022
 
+[You Never Stop Dancing: Non-freezing Dance Generation via Bank-constrained Manifold Projection](https://openreview.net/forum?id=88ubVLwWvGD) \
+MSRA, NeurIPS'22
+
 [GroupDancer: Music to Multi-People Dance Synthesis with Style Collaboration](https://dl.acm.org/doi/abs/10.1145/3503161.3548090) \
 Tsinghua University, ACMMM'22
 
