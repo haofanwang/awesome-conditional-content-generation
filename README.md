@@ -53,6 +53,10 @@ Tencent, 8 July 2022
 USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
+
+[Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2301.03949) \
+Beihang University, 10 Jan 2023
+
 [Executing your Commands via Motion Diffusion in Latent Space](https://chenxin.tech/mld/) \
 Tencent, 8 Dec 2022, [[Code]](https://github.com/ChenFengYe/motion-latent-diffusion)
 
@@ -99,12 +103,17 @@ University of Maryland,, VR 2021, [[Code]](https://github.com/UttaranB127/Text2G
 
 For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation)
 
+[DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786) \
+Tsinghua University, 10 Jan 2023
+
+[Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://mstypulkowski.github.io/diffusedheads/) \
+University of Wrocław, 6 Jan 2023, [[Incoming Code]](https://github.com/MStypulkowski/diffused-heads)
+
 [Generating Holistic 3D Human Motion from Speech](https://talkshow.is.tue.mpg.de/) \
 Max Planck Institute for Intelligent Systems, 8 Dev 2022
 
 [Audio-Driven Co-Speech Gesture Video Generation](https://arxiv.org/abs/2212.02350) \
 NTU, 5 Dec 2022
-
 
 [Listen, denoise, action! Audio-driven motion synthesis with diffusion models](https://www.speech.kth.se/research/listen-denoise-action/) \
 KTH Royal Institute of Technology, 17 Nov 2022
