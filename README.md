@@ -84,6 +84,9 @@ Korea University, 1 Sep 2022
 [MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html) \
 NTU, 22 Aug 2022, [[Code]](https://github.com/mingyuan-zhang/MotionDiffuse)
 
+[TEMOS: Generating diverse human motions from textual descriptions](https://mathis.petrovich.fr/temos/) \
+MPI, ECCV 2022 (Oral), [[Code]](https://github.com/Mathux/TEMOS)
+
 [GIMO: Gaze-Informed Human Motion Prediction in Context](https://geometry.stanford.edu/projects/gimo/) \
 Stanford University, ECCV 2022, [[Code]](https://github.com/y-zheng18/GIMO)
 
