@@ -54,6 +54,9 @@ USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
 
+[T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://mael-zys.github.io/T2M-GPT/) \
+Tencent AI Lab, 16 Jan 2023, [[Code]](https://github.com/Mael-zys/T2M-GPT)
+
 [Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2301.03949) \
 Beihang University, 10 Jan 2023
 
