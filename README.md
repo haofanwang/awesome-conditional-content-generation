@@ -64,7 +64,7 @@ Beihang University, 10 Jan 2023
 Tencent, 8 Dec 2022, [[Code]](https://github.com/ChenFengYe/motion-latent-diffusion)
 
 [MultiAct: Long-Term 3D Human Motion Generation from Multiple Action Labels](https://arxiv.org/abs/2212.05897) \
-Seoul National University, AAAI 2023
+Seoul National University, AAAI 2023 Oral, [[Code]](https://github.com/TaeryungLee/MultiAct_RELEASE)
 
 [MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis](https://vcai.mpi-inf.mpg.de/projects/MoFusion/) \
 Max Planck Institute for Informatics, 8 Dec 2022
