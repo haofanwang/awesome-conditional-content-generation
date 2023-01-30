@@ -109,6 +109,9 @@ University of Maryland,, VR 2021, [[Code]](https://github.com/UttaranB127/Text2G
 
 For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation)
 
+[DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://arxiv.org/abs/2301.10047) \
+ Macau University of Science and Technolog, 24 Jan 2023
+
 [DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis](https://arxiv.org/abs/2301.03786) \
 Tsinghua University, 10 Jan 2023
 
