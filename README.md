@@ -22,7 +22,10 @@ This repository contains a collection of resources and papers on ***Conditional 
 
 ### Music-Driven motion generation
 
-[Magic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation](https://arxiv.org/pdf/2212.03741v1.pdf) \
+[Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation](https://github.com/L-YeZhu/CDCD) \
+Illinois Institute of Technology, ICLR'23, [[Code]](https://github.com/L-YeZhu/CDCD)
+
+[Magic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation](https://arxiv.org/abs/2212.03741) \
  Tsinghua University, 7 Dec 2022
 
 [Pretrained Diffusion Models for Unified Human Motion Synthesis](https://ofa-sys.github.io/MoFusion/) \
