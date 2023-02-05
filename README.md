@@ -112,6 +112,9 @@ University of Maryland,, VR 2021, [[Code]](https://github.com/UttaranB127/Text2G
 
 For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation)
 
+[GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://geneface.github.io/) \
+Zhejiang University, ICLR'23, [[Code]](https://github.com/yerfor/GeneFace)
+
 [DiffMotion: Speech-Driven Gesture Synthesis Using Denoising Diffusion Model](https://arxiv.org/abs/2301.10047) \
  Macau University of Science and Technolog, 24 Jan 2023
 
