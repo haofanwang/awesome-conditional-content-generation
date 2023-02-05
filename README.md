@@ -187,6 +187,9 @@ UCSD, NeurIPS 2021
 
 ### Motion Applications
 
+[MIME: Human-Aware 3D Scene Generation](https://mime.is.tue.mpg.de/) \
+MPI
+
 [Scene Synthesis from Human Motion](https://lijiaman.github.io/projects/summon/) \
 Stanford University, SIGGRAPH Asia 2022, [[Code]](https://github.com/onestarYX/summon)
 
