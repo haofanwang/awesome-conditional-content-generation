@@ -187,6 +187,9 @@ UCSD, NeurIPS 2021
 
 ### Motion Applications
 
+[Scene Synthesis from Human Motion](https://lijiaman.github.io/projects/summon/) \
+Stanford University, SIGGRAPH Asia 2022, [[Code]](https://github.com/onestarYX/summon)
+
 [TEACH: Temporal Action Compositions for 3D Humans](https://teach.is.tue.mpg.de/) \
 MPI, 3DV 2022, [[Code]](https://github.com/athn-nik/teach)
 
