@@ -274,6 +274,9 @@ Runway ML, CVPR 2022, [[Code]](https://github.com/CompVis/latent-diffusion)
 
 ### Text-Video Generation
 
+[Structure and Content-Guided Video Synthesis with Diffusion Models](https://research.runwayml.com/gen1) \
+Runway, 6 Feb 2023
+
 [Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths](https://yingqinghe.github.io/LVDM/) \
 The Hong Kong University of Science and Technology, 23 Nov 2022, [[Upcoming Code]](https://github.com/YingqingHe/LVDM)
 
