@@ -2,7 +2,7 @@
 
 This repository contains a collection of resources and papers on ***Conditional Content Generation***. Especially for human motion generation, image generation and video generation. This repo is maintained by [Haofan Wang](https://github.com/haofanwang).
 
-我们团队（小红书-智能创作组）正在招聘以下方向的科研实习生（可远程），如果你有相关经验，欢迎将简历发送至wanghaofan@xiaohongshu.com，如通过筛选我们会在一周内联系。我们也欢迎非实习类型的学术合作交流。
+我们正在组建非正式学术合作组织（远程），目前包含10余名在读或待入学Ph.D，方向为多模态与虚拟数字人，如果你对我们的方向感兴趣，希望建议更广泛的学术合作，并且已经发表过至少一篇顶会论文，欢迎随时发邮件至haofanwang.ai@gmail.com。如果你目前在国内，且有兴趣实习（小红书-智能创作组），也可以将简历发送至wanghaofan@xiaohongshu.com。
 
 ## Contents
 - Papers List
@@ -220,6 +220,9 @@ Adobe Research, 28 May 2020
 ### Text-Image Generation
 
 For more recent paper, you can find from [here](https://github.com/heejkoo/Awesome-Diffusion-Models#text-to-image)
+
+[Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/lllyasviel/ControlNet) \
+Stanford, Feb 2023
 
 [SpaText: Spatio-Textual Representation for Controllable Image Generation](https://omriavrahami.com/spatext/) \
 Meta AI (FAIR), 25 Nov 2022
