@@ -2,7 +2,7 @@
 
 This repository contains a collection of resources and papers on ***Conditional Content Generation***. Especially for human motion generation, image generation and video generation. This repo is maintained by [Haofan Wang](https://github.com/haofanwang).
 
-我们正在组建非正式学术合作组织（远程），目前包含10余名在读或待入学Ph.D，方向为多模态与虚拟数字人，如果你对我们的方向感兴趣，希望建议更广泛的学术合作，并且已经发表过至少一篇顶会论文，欢迎随时发邮件至haofanwang.ai@gmail.com。如果你目前在国内，且有兴趣实习（小红书-智能创作组），也可以将简历发送至wanghaofan@xiaohongshu.com。
+我们正在组建非正式学术合作组织（远程），目前包含10余名在读或待入学Ph.D，方向为多模态与虚拟数字人，如果你对我们的方向感兴趣，希望与我们保持更广泛的学术合作，并且已经发表过至少一篇顶会论文，欢迎随时发邮件至haofanwang.ai@gmail.com。如果你目前在国内，且有兴趣实习（小红书-智能创作组），也欢迎联系。
 
 ## Contents
 - Papers List
