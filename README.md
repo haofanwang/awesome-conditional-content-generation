@@ -57,6 +57,9 @@ USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
 
+[Human Motion Diffusion as a Generative Prior](https://priormdm.github.io/priorMDM-page) \
+Anonymous Authors, [[Code]](https://github.com/priorMDM/priorMDM)
+
 [T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://mael-zys.github.io/T2M-GPT/) \
 Tencent AI Lab, 16 Jan 2023, [[Code]](https://github.com/Mael-zys/T2M-GPT)
 
