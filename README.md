@@ -115,6 +115,9 @@ University of Maryland,, VR 2021, [[Code]](https://github.com/UttaranB127/Text2G
 
 For more recent paper, you can find from [here](https://github.com/YunjinPark/awesome_talking_face_generation)
 
+[Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation](https://github.com/Advocate99/DiffGesture) \
+NTU, CVPR'23, [[Code]](https://github.com/Advocate99/DiffGesture)
+
 [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://geneface.github.io/) \
 Zhejiang University, ICLR'23, [[Code]](https://github.com/yerfor/GeneFace)
 
@@ -279,6 +282,8 @@ University of Science and Technology of China, CVPR 2022, [[Code]](https://githu
 Runway ML, CVPR 2022, [[Code]](https://github.com/CompVis/latent-diffusion)
 
 ### Text-Video Generation
+[Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/) \
+Meta AI, 2023, [[Code]](https://github.com/Make-A-Video3D/Make-A-Video3D.github.io)
 
 [Structure and Content-Guided Video Synthesis with Diffusion Models](https://research.runwayml.com/gen1) \
 Runway, 6 Feb 2023
