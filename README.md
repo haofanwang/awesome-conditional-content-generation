@@ -22,6 +22,9 @@ This repository contains a collection of resources and papers on ***Conditional 
 
 ### Music-Driven motion generation
 
+[Music-Driven Group Choreography](http://128.84.21.203/abs/2303.12337) \
+AIOZ AI, CVPR'23
+
 [Discrete Contrastive Diffusion for Cross-Modal and Conditional Generation](https://github.com/L-YeZhu/CDCD) \
 Illinois Institute of Technology, ICLR'23, [[Code]](https://github.com/L-YeZhu/CDCD)
 
