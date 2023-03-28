@@ -61,6 +61,9 @@ USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
 
+[GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents](https://arxiv.org/abs/2303.14613) \
+Peking University, CVPR'23
+
 [Human Motion Diffusion as a Generative Prior](https://priormdm.github.io/priorMDM-page) \
 Anonymous Authors, [[Code]](https://github.com/priorMDM/priorMDM)
 
