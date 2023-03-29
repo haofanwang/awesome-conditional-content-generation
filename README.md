@@ -61,6 +61,9 @@ USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
 
+[TEMOS: Generating diverse human motions from textual descriptions](mathis.petrovich.fr/temos/) \
+ENPC, CVPR'23
+
 [GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents](https://arxiv.org/abs/2303.14613) \
 Peking University, CVPR'23
 
