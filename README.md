@@ -61,6 +61,9 @@ USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
 
 ### Text-Driven motion generation
 
+[ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html) \
+NTU, CVPR'23, [[Code]](https://github.com/mingyuan-zhang/ReMoDiffuse)
+
 [TEMOS: Generating diverse human motions from textual descriptions](mathis.petrovich.fr/temos/) \
 ENPC, CVPR'23
 
