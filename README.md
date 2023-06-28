@@ -23,6 +23,9 @@ This repository contains a collection of resources and papers on ***Conditional 
 
 ### Music-Driven motion generation
 
+[Taming Diffusion Models for Music-driven Conducting Motion Generation](https://arxiv.org/abs/2306.10065) \
+NUS, AAAI 2023 Summer Symposium, [[Code]](https://github.com/viiika/Diffusion-Conductor)
+
 [Music-Driven Group Choreography](http://128.84.21.203/abs/2303.12337) \
 AIOZ AI, CVPR'23
 
@@ -58,6 +61,7 @@ Tencent, 8 July 2022
 
 [AI Choreographer: Music Conditioned 3D Dance Generation with AIST++](https://google.github.io/aichoreographer/) \
 USC, ICCV 2021, [[Code]](https://github.com/google-research/mint)
+
 
 ### Text-Driven motion generation
 
