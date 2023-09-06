@@ -190,11 +190,20 @@ UC Berkeley, CVPR 2019, [[Code]](https://github.com/amirbar/speech2gesture)
 
 For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md)
 
+[InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion](https://sirui-xu.github.io/InterDiff/)\
+UIUC, ICCV 2023, [[Code]](https://github.com/Sirui-Xu/InterDiff)
+
+[Stochastic Multi-Person 3D Motion Forecasting](https://sirui-xu.github.io/DuMMF/)\
+UIUC, ICLR 2023 (Spotlight), [[Code]](https://github.com/Sirui-Xu/DuMMF)
+
 [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://lhchen.top/Human-MAC/)\
 Tsinghua University, ICCV 2023, [[Code]](https://github.com/LinghaoChan/HumanMAC)
 
 [BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://barquerogerman.github.io/BeLFusion/) \
 University of Barcelona, 25 Nov 2022, [[Upcoming Code]](https://github.com/BarqueroGerman/BeLFusion)
+
+[Diverse Human Motion Prediction Guided by Multi-Level Spatial-Temporal Anchors](https://sirui-xu.github.io/STARS/)\
+UIUC, ECCV 2022 (Oral), [[Code]](https://github.com/Sirui-Xu/STARS)
 
 [PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting](https://europe.naverlabs.com/research/computer-vision/posegpt/) \
 NAVER LABS, ECCV'2022, [[Code]](https://github.com/naver/PoseGPT)
