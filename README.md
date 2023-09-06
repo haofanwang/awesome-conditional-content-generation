@@ -191,7 +191,7 @@ UC Berkeley, CVPR 2019, [[Code]](https://github.com/amirbar/speech2gesture)
 For more recent more, you can find from [here](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md)
 
 [HumanMAC: Masked Motion Completion for Human Motion Prediction](https://lhchen.top/Human-MAC/)\
-Tsinghua University, 7 Feb 2023, [[Code]](https://github.com/LinghaoChan/HumanMAC)
+Tsinghua University, ICCV 2023, [[Code]](https://github.com/LinghaoChan/HumanMAC)
 
 [BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction](https://barquerogerman.github.io/BeLFusion/) \
 University of Barcelona, 25 Nov 2022, [[Upcoming Code]](https://github.com/BarqueroGerman/BeLFusion)
