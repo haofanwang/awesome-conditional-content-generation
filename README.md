@@ -311,6 +311,12 @@ University of Science and Technology of China, CVPR 2022, [[Code]](https://githu
 Runway ML, CVPR 2022, [[Code]](https://github.com/CompVis/latent-diffusion)
 
 ### Text-Video Generation
+[TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models](https://arxiv.org/pdf/2404.16306) \
+Penn State University, CVPR 2024, [[Code]](https://github.com/merlresearch/TI2V-Zero)
+
+[Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/pdf/2303.13744) \
+Penn State University, CVPR 2023, [[Code]](https://github.com/nihaomiao/CVPR2023_LFDM)
+
 [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/) \
 Meta AI, 2023, [[Code]](https://github.com/Make-A-Video3D/Make-A-Video3D.github.io)
 
