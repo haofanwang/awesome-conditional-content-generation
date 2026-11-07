@@ -311,6 +311,9 @@ University of Science and Technology of China, CVPR 2022, [[Code]](https://githu
 Runway ML, CVPR 2022, [[Code]](https://github.com/CompVis/latent-diffusion)
 
 ### Text-Video Generation
+[Motion-aware generative frame interpolation](https://arxiv.org/abs/2501.03699) \
+SCIS 2026, [[Published Paper]](https://link.springer.com/article/10.1007/s11432-025-4920-3), [[Code]](https://github.com/MCG-NJU/MoG-VFI) — Flow-guided, two-frame-conditioned video interpolation.
+
 [TI2V-Zero: Zero-Shot Image Conditioning for Text-to-Video Diffusion Models](https://arxiv.org/pdf/2404.16306) \
 Penn State University, CVPR 2024, [[Code]](https://github.com/merlresearch/TI2V-Zero)
 
